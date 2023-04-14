@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm SarCode</h1>
+<h3 align="center">A passionate Software Developer 😄
+</h3>
 
-<!--
-**SarCode/SarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
 
-Here are some ideas to get you started:
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode" alt="sarcode" /></a> </p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently pursuing MSc in Computer Science from QMUL
+
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/sarthak-agarwal-dell/" target="blank">LinkedIn</a>
+
+- 💬 Ask me about **Python, Java, Interview, Resume**
+
+- 📫 How to reach me **sarthakagarwal152@gmail.com**
+ 
+</br>
+
+<h3 align="left">▶ Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sarthak-agarwal-dell/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="SarCode" height="30" width="40" /></a>
+</p>
+</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarcode&show_icons=true&locale=en" alt="sarcode" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarcode&" alt="sarcode" /></p> -->
+<!-- </br> -->
