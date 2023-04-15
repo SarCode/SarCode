@@ -5,7 +5,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode" alt="sarcode" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode" alt="sarcode" /></a> </p>
 
 
 - 🔭 I’m currently pursuing MSc in Computer Science from QMUL
@@ -19,9 +19,9 @@
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sarthak-agarwal-dell/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="SarCode" height="30" width="40" /></a>
-</p>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-agarwal-dell/)
+
 </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarcode&show_icons=true&locale=en" alt="sarcode" /></p>
