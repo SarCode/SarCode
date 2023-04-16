@@ -4,6 +4,11 @@
 
 </br>
 <br>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-agarwal-dell/)
+
+</br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode&row=2&column=3" alt="sarcode" /></a> </p>
@@ -17,10 +22,6 @@
 
 - 📫 How to reach me **sarthakagarwal152@gmail.com**
  
-</br>
-<br>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-agarwal-dell/)
 
 </br>
 <br>
