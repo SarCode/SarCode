@@ -5,7 +5,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode" alt="sarcode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode&row=2&column=3" alt="sarcode" /></a> </p>
 
 
 - 🔭 I’m currently pursuing MSc in Computer Science from QMUL
