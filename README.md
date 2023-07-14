@@ -17,15 +17,6 @@
 
 - 📫 How to reach me **sarthakagarwal152@gmail.com**
  
-<br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarcode&show_icons=true&locale=en" alt="sarcode" /></p>
-
-<br>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarcode&row=2&column=3" alt="sarcode" /></a> </p>
 
 <br>
 <br>
