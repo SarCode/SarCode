@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently pursuing MSc in Computer Science from QMUL
+- 🔭 Working as a Cloud Engineer @ Cisco
 
 - 📝 I regularly write articles on <a href="https://www.linkedin.com/in/sarthak-agarwal-dell/" target="blank">LinkedIn</a>
 
